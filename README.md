@@ -1,11 +1,11 @@
 I'm CJ, I also go by Kenzo Johnson, and I enjoy writing code in Typescript or Python. I currently work as a full stack developer at a Film company with a Ruby on Rails and Vue codebase. 
 
-I've spent the majority of recent months upgrading the older Rails version to a newer version and improving some employer facing tools.
+I've spent the majority of recent months upgrading the older Rails/Ruby versions to the newer standards. I'm now tackling integrating Hubspot's API with the Rails system.
 
-I'm looking for a new full time role where I can use more Typescript or, if possible, allow me to use Go.
+I'm looking for a new full time role where I can use more Typescript or, fingers crossed, give me an excuse to learn Go.
 - I recently finished Boot.dev's courses on Typescript
-- I'm re-reading How to Think Like A Programmer for the 2nd time
-- I spend most of my free time on my side project (in developement): if you think you spend too much on groceries, this one is for you. 
+- I spend most of my free time on my side project (in developement): if you think you spend too much on groceries, this one is for you.
+- - I'm reading How to Think Like A Programmer for the 2nd time.
 
 Say hi via [LinkedIn](https://www.linkedin.com/in/cj-felux/)
 
