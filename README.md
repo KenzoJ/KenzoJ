@@ -4,7 +4,7 @@ I've spent the majority of recent months upgrading the older Rails/Ruby versions
 
 I'm looking for a new full time role where I can use more Typescript or, fingers crossed, give me an excuse to learn Go.
 - I recently finished Boot.dev's courses on Typescript
-- I spend most of my free time on my side project (in developement): if you think you spend too much on groceries, this one is for you.
+- I'm in the process of completing my B.S. in Software Engineering from WGU.
 - I'm reading How to Think Like A Programmer for the 2nd time.
 
 Say hi via [LinkedIn](https://www.linkedin.com/in/cj-felux/)
